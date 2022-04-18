@@ -6,7 +6,7 @@ metadata:
   # Example for optional annotations
   annotations:
     backstage.io/code-coverage: enabled
-    #backstage.io/source-location: url:https://github.com/kkverma/demo-flask-app/app/
+    backstage.io/source-location: url:https://github.com/kkverma/demo-flask-app/
 spec:
   type: service
   owner: kaushal.7ku@gmail.com
